@@ -6,6 +6,7 @@ It simply constists in the skeleton app one gets with `npm create svelte@latest`
 
 ```
 npm install
+npm run build
 ORIGIN=localhost:3000 node build # note the invalid value for ORIGIN
 ```
 
